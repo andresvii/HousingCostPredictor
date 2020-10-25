@@ -1,7 +1,5 @@
 # HousingCostPredictor
-
-Brandly Ross
-Andres Hernandez
+Andres Hernandez 
 Bradley Ross
 Luis Mendoza 
 
