@@ -1,6 +1,8 @@
 # HousingCostPredictor
 
-Brad
+Brandly Ross
+Andres Hernandez
+Bradley Ross
 Luis Mendoza 
 
 CS 488-Data Mining-Fall 2020
