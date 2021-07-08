@@ -16,5 +16,3 @@ This project is the source code for the model. Follow the instruction below to c
 
 # Dependencies 
 
-
-#NOTE this is an accidental Fork, the original link is https://github.com/bross08/HousingCostPredictor
